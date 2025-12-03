@@ -1,0 +1,9 @@
+# Basic Jupyter Book configuration
+title: AWS Final Project Pipeline Instructions
+author: Your Name
+logo: logo.png
+
+only_build_toc_files: true
+
+execute:
+  execute_notebooks: "off"
