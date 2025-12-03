@@ -10,6 +10,7 @@ chapters:
 - file: lambda2
 - file: test-pipeline-1
 - file: test-pipeline-2
+- file: extension-validation
 - file: understand-pipeline
 - file: reset-and-run
 - file: troubleshooting
