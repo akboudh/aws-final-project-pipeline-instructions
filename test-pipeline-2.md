@@ -1,5 +1,7 @@
 # Part 5: Test with Store Order CSV
 
+**Note:** This project includes Parts 6 and 7 that add validation and summary aggregation features. Complete the main pipeline first, then proceed to Parts 6 and 7.
+
 ## Upload a Store Order
 1. [Download the test file `test_order_s.csv` provided to you](https://github.com/mgmt-59000-cc/aws-final-project-assets/blob/main/test_order_s.csv){target="_blank" rel="noopener noreferrer"}
 	- Choose the  **Download Raw File** button to download the file

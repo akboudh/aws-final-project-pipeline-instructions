@@ -1,5 +1,7 @@
 # Part 2: Create Lambda 1 (CSV to JSON Transformer)
 
+**Note:** This project includes Parts 6 and 7 that add validation and summary aggregation features. Part 6 adds validation to Lambda 1 to separate valid and invalid records.
+
 ## Create the Lambda Function
 1. Search for **Lambda** in AWS console
 2. From the dashboard, click the orange **"Create function"** button

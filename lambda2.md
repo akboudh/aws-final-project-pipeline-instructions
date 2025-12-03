@@ -1,5 +1,7 @@
 # Part 3: Create Lambda 2 (JSON to HTML Report Generator)
 
+**Note:** This project includes Parts 6 and 7 that add validation and summary aggregation features. These enhance the pipeline with validation and additional reporting capabilities.
+
 ## Create the Lambda Function
 1. Return to the Lambda dashboard
 2. Click the orange **"Create function"** button

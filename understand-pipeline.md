@@ -1,4 +1,4 @@
-# Part 6: Understanding the Pipeline
+# Part 8: Understanding the Pipeline
 
 ## What Happens When You Upload a CSV?
 

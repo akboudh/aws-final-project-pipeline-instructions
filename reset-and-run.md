@@ -1,4 +1,4 @@
-# Part 7: Reset the Pipeline and Run the Full Project
+# Part 9: Reset the Pipeline and Run the Full Project
 
 ## Reset the Pipeline
 You will remove the test data from S3 so that you can upload multiple order files and see the consolidated results.
